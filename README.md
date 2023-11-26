@@ -6,4 +6,8 @@ Some features may not be working properly like-
 1. The video in index.html is not uploaded with it.
 2. Download section because the file is also not uploaded with it.
 
-I will give the Gdrive link below of to the whole website video and the video  
+I will give the Gdrive link below of to the whole website video 
+
+Website video link - 
+https://drive.google.com/file/d/1OsaQJn5NpXx9L8YQ7kji80SGPpFregoN/view?usp=drive_link
+
